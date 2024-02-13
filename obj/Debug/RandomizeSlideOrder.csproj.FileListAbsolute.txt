@@ -1,0 +1,13 @@
+D:\Applications\RandomizeSlideOrder\bin\Debug\RandomizeSlideOrder.dll
+D:\Applications\RandomizeSlideOrder\bin\Debug\RandomizeSlideOrder.pdb
+D:\Applications\RandomizeSlideOrder\bin\Debug\RandomizeSlideOrder.dll.manifest
+D:\Applications\RandomizeSlideOrder\bin\Debug\RandomizeSlideOrder.vsto
+D:\Applications\RandomizeSlideOrder\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+D:\Applications\RandomizeSlideOrder\obj\Debug\RandomizeSlideOrder.csproj.AssemblyReference.cache
+D:\Applications\RandomizeSlideOrder\obj\Debug\RandomizeSlideOrder.Properties.Resources.resources
+D:\Applications\RandomizeSlideOrder\obj\Debug\RandomizeSlideOrder.RandomizeSlideOrder.resources
+D:\Applications\RandomizeSlideOrder\obj\Debug\RandomizeSlideOrder.csproj.GenerateResource.cache
+D:\Applications\RandomizeSlideOrder\obj\Debug\RandomizeSlideOrder.csproj.CoreCompileInputs.cache
+D:\Applications\RandomizeSlideOrder\obj\Debug\RandomizeSlideOrder.csproj.CopyComplete
+D:\Applications\RandomizeSlideOrder\obj\Debug\RandomizeSlideOrder.dll
+D:\Applications\RandomizeSlideOrder\obj\Debug\RandomizeSlideOrder.pdb
