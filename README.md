@@ -2,8 +2,8 @@ This PowerPoint add-in allows you to randomize the order of your slides before r
 
 There are three buttons added to the "Slide Show" ribbon:
 
-    1. Shuffle Play - This shuffles the order of the slides and starts the presentation
-    2. Loop Play    - This shuffles the order of the slides and starts the presentation while also looping the slide show
+    1. Shuffle Play - Shuffles order of slides and starts presentation
+    2. Loop Play    - Shuffles order of slides and starts presentation while looping
     3. Reset Order  - This resets the shuffled order back to the previous state
     
 Install Instructions:
